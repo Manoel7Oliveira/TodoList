@@ -28,4 +28,3 @@ Aplicação de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 ## 📚 Aprendizados
 
 Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, eventos, funções e lógica de programação utilizando JavaScript.
-
