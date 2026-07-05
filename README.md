@@ -29,13 +29,3 @@ Aplicação de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 
 Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, eventos, funções e lógica de programação utilizando JavaScript.
 
-## ▶️ Como executar
-
-```bash
-# Clone o repositório
-git clone https://github.com/Manoel7Oliveira/TodoList.git
-
-# Acesse a pasta
-cd TodoList
-
-# Abra o arquivo index.html no navegador
